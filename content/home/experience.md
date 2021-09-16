@@ -36,12 +36,12 @@ experience:
         * Collecting behavior data
 
   - title: Undergraduate Research Assistant
-    company: National Dong Hwa University
+    company: National Dong Hwa University (NDHU)
     company_url: ''
-    location: California
+    location: Hualien, Taiwan
     date_start: '2017-09-01'
     date_end: '2018-09-01'
-    description: Assisted undergraduate students in designing E-Prime experiments, assisted with EEG study and data collection.
+    description: Assisted undergraduate students in designing E-Prime experiments, assisted with ERPs study and data collection.
 
 design:
   columns: '2'
