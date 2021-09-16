@@ -39,13 +39,13 @@ item:
   organization_url: https://www.coursera.org
   title: Python Data Structures
   url: ""
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url:
+  date_end: "2019-11-02"
+  date_start: "2019-11-02"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Taiwanese Psychological Association
+  organization_url: https://www.tpa-tw.org/?lang=en
+  title: 'R Programming – Application in Social Science'
   url: ""
 
 design:
