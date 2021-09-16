@@ -25,7 +25,6 @@ experience:
   - title: Research Assistant
     company: National Taiwan Normal University (NTNU)
     company_url: ''
-    company_logo: org-gc
     location: Taipei, Taiwan
     date_start: '2019-07-01'
     date_end: '2020-09-30'
@@ -39,7 +38,6 @@ experience:
   - title: Undergraduate Research Assistant
     company: National Dong Hwa University
     company_url: ''
-    company_logo: org-x
     location: California
     date_start: '2017-09-01'
     date_end: '2018-09-01'
