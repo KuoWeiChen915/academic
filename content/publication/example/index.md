@@ -8,30 +8,30 @@ title: "Trends of anxiety and performance of preventive measures
 authors:
 - Chao, E.
 - Chen, K. W.
-- Lee, T. S. H.
+
 
 # Author notes (optional)
-author_notes:
+#author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2021-02-26T00:00:00Z"
+doi: "https://doi.org/10.6288/TJPH.202102_40(1).109115"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-09-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Citizens who perceive SARS-CoV-2 as a threat may experience heightened anxiety of the severe illness caused by COVID-19. This study investigated the trends in anxiety and performance of preventive measures among Taiwanese citizens during the early stages of the COVID-19 pandemic.This study employed an anonymous online survey to investigate anxiety and preventive behavior practice in adults during the early stages of the COVID-19 pandemic. The 6-item state version of the State-Trait Anxiety Inventory (STAI-6) was used to measure symptoms of anxiety. The preventive measures consisted of 12 items divided into three categories: personal protection, cough etiquette, and social distance and voluntary quarantine. The three time periods studied were the lockdown in Wuhan, China (from January 23 to February 7), the week when enhanced border protections and in-person mask purchase systems were introduced and the first citizen tested positive for SARS-CoV-2 without symptoms (from February 8 to February 16), and the 10 days following the first death from COVID-19 in Taiwan (from February 27 to March 9).
+abstract: Citizens who perceive SARS-CoV-2 as a threat may experience heightened anxiety of the severe illness caused by COVID-19. This study investigated the trends in anxiety and performance of preventive measures among Taiwanese citizens during the early stages of the COVID-19 pandemic.This study employed an anonymous online survey to investigate anxiety and preventive behavior practice in adults during the early stages of the COVID-19 pandemic. The 6-item state version of the State-Trait Anxiety Inventory (STAI-6) was used to measure symptoms of anxiety. 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
