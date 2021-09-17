@@ -31,7 +31,7 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Citizens who perceive SARS-CoV-2 as a threat may experience heightened anxiety of the severe illness caused by COVID-19. This study investigated the trends in anxiety and performance of preventive measures among Taiwanese citizens during the early stages of the COVID-19 pandemic.This study employed an anonymous online survey to investigate anxiety and preventive behavior practice in adults during the early stages of the COVID-19 pandemic. The 6-item state version of the State-Trait Anxiety Inventory 
+abstract: Citizens who perceive SARS-CoV-2 as a threat may experience heightened anxiety of the severe illness caused by COVID-19. This study investigated the trends in anxiety and performance of preventive measures among Taiwanese citizens during the early stages of the COVID-19 pandemic.This study employed an anonymous online survey to investigate anxiety and preventive behavior practice in adults during the early stages of the COVID-19 pandemic. The 6-item state version of the State-Trait Anxiety Inventory (STAI-6)
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
