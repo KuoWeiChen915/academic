@@ -28,10 +28,10 @@ publishDate: "2021-09-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Taiwan Journal of Public Health*
+publication_short: In *TJPH*
 
-abstract: Citizens who perceive SARS-CoV-2 as a threat may experience heightened anxiety of the severe illness caused by COVID-19. This study investigated the trends in anxiety and performance of preventive measures among Taiwanese citizens during the early stages of the COVID-19 pandemic.This study employed an anonymous online survey to investigate anxiety and preventive behavior practice in adults during the early stages of the COVID-19 pandemic. The 6-item state version of the State-Trait Anxiety Inventory (STAI-6) was used to measure symptoms of anxiety. 
+abstract: Citizens who perceive SARS-CoV-2 as a threat may experience heightened anxiety of the severe illness caused by COVID-19. This study investigated the trends in anxiety and performance of preventive measures among Taiwanese citizens during the early stages of the COVID-19 pandemic.This study employed an anonymous online survey to investigate anxiety and preventive behavior practice in adults during the early stages of the COVID-19 pandemic. The 6-item state version of the State-Trait Anxiety Inventory (STAI-6) was used to measure symptoms of anxiety.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
