@@ -48,7 +48,7 @@ social:
 #  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/kuo-wei-chen-343b3a1a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6e7QyTrtSRuLu0UozaGRUQ%3D%3D
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
