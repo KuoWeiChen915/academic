@@ -15,7 +15,7 @@ experience:
   - company: National Taiwan Normal University Center of Research Ethics
     company_url: 'https://www.acad.ntnu.edu.tw/en/7news/news.php?class=1101&class2=170'
     location: Taipei, Taiwan
-    date_start: '2019-07-01'
+    date_start: '2019-09-01'
     date_end: '2020-09-30'
     description: |2-
         Responsibilities include:
