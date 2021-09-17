@@ -20,6 +20,8 @@ feature:
 - name: Python
 - name: EEG
 - name: PsychoPy
+- name: SPSS
+- name: Statistics
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

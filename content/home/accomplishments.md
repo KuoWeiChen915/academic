@@ -23,22 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://coursera.org/share/d92f15828edd9a2fd490c9827919f835
-  date_end: ""
-  date_start: "2020-05-11"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Computational Thinking and Problem Solving
-  url: ""
-- certificate_url: https://coursera.org/share/ce78b93abf7d4464397d9f530ace14ce
-  date_end: ""
-  date_start: "2020-05-30"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Python Data Structures
-  url: ""
+
 - certificate_url:
   date_end: ""
   date_start: "2021-08-20"
@@ -47,6 +32,31 @@ item:
   organization_url: https://www.coursera.org
   title: 'Statistics with Python (in progress)'
   url: ""
+- certificate_url: https://coursera.org/share/c44c56364fa9442befdfdfca23ad8d07
+  date_end: ""
+  date_start: "2020-06-12"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Using Python to Access Web Data
+  url: ""
+- certificate_url: https://coursera.org/share/ce78b93abf7d4464397d9f530ace14ce
+  date_end: ""
+  date_start: "2020-05-30"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Python Data Structures
+  url: ""
+- certificate_url: https://coursera.org/share/d92f15828edd9a2fd490c9827919f835
+  date_end: ""
+  date_start: "2020-05-11"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Computational Thinking and Problem Solving
+  url: ""
+
 - certificate_url:
   date_end: "2019-11-02"
   date_start: "2019-11-02"
