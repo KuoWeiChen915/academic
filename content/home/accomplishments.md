@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: https://coursera.org/share/ce78b93abf7d4464397d9f530ace14ce
   date_end: ""
-  date_start: "2020-01-01"
+  date_start: "2020-05-30"
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: Coursera
   organization_url: https://www.coursera.org
