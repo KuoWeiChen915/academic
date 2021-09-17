@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Training'
+title: 'Accomplishments'
 subtitle:
 
 # Date format
@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://coursera.org/share/d92f15828edd9a2fd490c9827919f835
   date_end: ""
-  date_start: "2021-05-11"
+  date_start: "2020-05-11"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: https://coursera.org/share/ce78b93abf7d4464397d9f530ace14ce
   date_end: ""
-  date_start: "2021-01-01"
+  date_start: "2020-01-01"
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: Coursera
   organization_url: https://www.coursera.org

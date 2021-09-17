@@ -36,7 +36,7 @@ abstract: Citizens who perceive SARS-CoV-2 as a threat may experience heightened
 # Summary. An optional shortened abstract.
 summary: The results revealed that as the pandemic spread, citizens' anxiety, and performance of preventive measures increased significantly for each sex, age, education level, and income group.
 
-tags: []
+tags: [Trend Analysis]
 
 # Display this page in the Featured widget?
 featured: true
