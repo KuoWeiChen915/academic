@@ -38,5 +38,3 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
-- National Taiwan Normal University Center of Research Ethics
-- Taiwan Root
