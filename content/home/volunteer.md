@@ -13,7 +13,7 @@ title: Volunteer Experiences
 subtitle: ""
 experience:
   - company: National Taiwan Normal University Center of Research Ethics
-    company_url: ''
+    company_url: 'https://www.acad.ntnu.edu.tw/en/7news/news.php?class=1101&class2=170'
     location: Taipei, Taiwan
     date_start: '2019-07-01'
     date_end: '2020-09-30'
@@ -24,9 +24,9 @@ experience:
         * Assisted the secretaries in preparation of meetings
         * Assisted the secretaries in making certificate of approval
 
-  - company: National Dong Hwa University (NDHU)
-    company_url: ''
-    location: Hualien, Taiwan
+  - company: Taiwan Root
+    company_url: 'http://www.taiwanroot.org/?l=en'
+    location: Taipei, Taiwan
     date_start: '2015-08-01'
     date_end: '2018-08-01'
     description: Assisted physicians in providing free medical service in rural areas
