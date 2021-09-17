@@ -1,6 +1,4 @@
 ---
-# An instance of the Featured widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
 
 # This file represents a page section.
