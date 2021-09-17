@@ -36,7 +36,7 @@ education:
 social:
  - icon: envelope
   icon_pack: fas
-  email: "kuowei.chen915@gmail.com"
+  link: "mailto:kuowei.chen915@gmail.com"
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
