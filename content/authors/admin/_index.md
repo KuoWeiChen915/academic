@@ -63,7 +63,7 @@ email: "kuowei.chen915@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-My name is Kuo-Wei Chen, I received my BSc in Psychology at National Dong Hwa University in 2019. I am genuinely interested in using the computational approach to investigate human decision-making and its interplay with perception, attention, and others. My undergraduate thesis focused on the influence of personality traits on the cognitive bias when individuals are making decisions under risk.
+My name is Kuo-Wei Chen, I received my BSc in Psychology at National Dong Hwa University in 2019. I am genuinely interested in using the computational approach to investigate human decision-making and its interplay with perception, attention, memory, and others. My undergraduate thesis focused on the influence of personality traits on the cognitive bias when individuals are making decisions under risk.
 
 Recently I have been focusing on the influence of COVID-19 on mental health. In 2021, I published one paper about the trends of anxiety and the adoption of preventive measures for COVID-19 during the COVID outbreak at the Taiwan Journal of Public Health. In the long run, however, I am keen to build computational models that excel at explaining and predicting human behaviors in the complex real world.
 
