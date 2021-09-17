@@ -11,7 +11,25 @@ weight: 80
 
 title: Volunteer Experiences
 subtitle: ""
+experience:
+  - company: National Taiwan Normal University Center of Research Ethics
+    company_url: ''
+    location: Taipei, Taiwan
+    date_start: '2019-07-01'
+    date_end: '2020-09-30'
+    description: |2-
+        Responsibilities include:
 
+        * Assisted the secretaries in organizing materials of received cases
+        * Assisted the secretaries in preparation of meetings
+        * Assisted the secretaries in making certificate of approval
+
+  - company: National Dong Hwa University (NDHU)
+    company_url: ''
+    location: Hualien, Taiwan
+    date_start: '2015-08-01'
+    date_end: '2018-08-01'
+    description: Assisted physicians in providing free medical service in rural areas
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -21,4 +39,4 @@ design:
   view: 1
 ---
 - National Taiwan Normal University Center of Research Ethics
-- Taiwan Root 
+- Taiwan Root
