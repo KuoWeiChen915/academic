@@ -65,6 +65,6 @@ highlight_name: true
 ---
 My name is Kuo-Wei Chen, I received my BSc in Psychology at National Dong Hwa University in 2019. I am genuinely interested in using the computational approach to investigate human decision-making and its interplay with perception, attention, and others. My undergraduate thesis focused on the influence of personality traits on cognitive bias when people are making decisions under risk.
 
-Previously I was a research assistant at National Taiwan Normal University where I researched the influence of ketamine on teenagers’ cognition. I recently published one paper about the trends of anxiety and adoption of preventive measures for COVID-19 during COVID outbreak at the Taiwan Journal of Public Health.
+Recently I have been focusing on the influence of COVID-19 on anxiety and adoption of preventive for COVID. In 2021, I published one paper about the trends of anxiety and adoption of preventive measures for COVID-19 during COVID outbreak at the Taiwan Journal of Public Health. In the long run, however, I am keen to build computational models that excel at explaining and predicting human behaviors in complex real world.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Kuo-Wei Chen.pdf" "newtab" >}}CV{{< /staticref >}}.
