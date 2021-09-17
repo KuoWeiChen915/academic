@@ -34,9 +34,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
- #- icon: envelope
-#  icon_pack: fas
-#  link: kuowei.chen915@gmail.com
+ - icon: envelope
+  icon_pack: fas
+  link: "kuowei.chen915@gmail.com"
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -64,6 +64,6 @@ email: "kuowei.chen915@gmail.com"
 highlight_name: true
 ---
 
-My name is Kuo-Wei Chen, I am glad that you are interested in my information. I finished my B.S. in Psychology at National Dong Hwa University in 2019. My undergraduate thesis focused on the influence of personality traits on the cognitive bias when people are making decision. Previously I was a research assistant at National Taiwan Normal University where I researched the influence of ketamine on teenagers’ cognition. I recently published one paper about the trends of anxiety and adoption of preventive measures for COVID-19 during COVID outbreak at the Taiwan Journal of Public Health.
+Hello, welcome to my website! My name is Kuo-Wei Chen, I finished my B.S. in Psychology at National Dong Hwa University in 2019. My undergraduate thesis focused on the influence of personality traits on the cognitive bias when people are making decision. Previously I was a research assistant at National Taiwan Normal University where I researched the influence of ketamine on teenagers’ cognition. I recently published one paper about the trends of anxiety and adoption of preventive measures for COVID-19 during COVID outbreak at the Taiwan Journal of Public Health.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Kuo-Wei Chen.pdf" "newtab" >}}CV{{< /staticref >}}.
