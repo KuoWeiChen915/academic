@@ -25,6 +25,8 @@ experience:
   - title: Research Assistant
     company: National Taiwan Normal University (NTNU)
     company_url: ''
+    advisor: Tony Szu-Hsien Lee
+    advisor_url: 'https://web.ntnu.edu.tw/~tonylee/englishindex.html'
     location: Taipei, Taiwan
     date_start: '2019-07-01'
     date_end: '2020-09-30'
@@ -41,7 +43,13 @@ experience:
     location: Hualien, Taiwan
     date_start: '2017-09-01'
     date_end: '2018-09-01'
-    description: Assisted undergraduate students in designing E-Prime experiments, assisted with ERPs study and data collection.
+    description: |2-
+        Responsibilities include:
+
+        * Programming psychological experiment
+        * Assisting graduate student in conducting ERPs experiment and data      collection
+        * Compiling E-Prime and PsychoPy operating manual for undergraduate students
+
 
 design:
   columns: '2'
