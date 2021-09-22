@@ -29,7 +29,11 @@ experience:
     location: Taipei, Taiwan
     date_start: '2015-08-01'
     date_end: '2018-08-01'
-    description: Assisted physicians in providing free medical service in rural areas
+    description: |2-
+        Responsibilities include:
+
+        * Organizing and allocating supplies
+        * Assisted physicians in providing free medical service in rural areas
 design:
   # Choose a view for the listings:
   #   1 = List
