@@ -22,7 +22,7 @@ experience:
 
         * Assisted the secretaries in organizing materials of received cases
         * Assisted the secretaries in preparation of meetings
-        * Assisted the secretaries in making certificate of approval
+        * Assisted the secretaries in making IRB certificate of approval
 
   - company: Taiwan Root
     company_url: 'http://www.taiwanroot.org/?l=en'
