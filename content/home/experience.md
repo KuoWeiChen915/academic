@@ -38,9 +38,9 @@ experience:
         * Collecting behavior data
 
   - title: Undergraduate Research Assistant
-    company: National Dong Hwa University (NDHU)
+    company: Cognitive Neuropsychology Lab
     company_url: ''
-    location: Hualien, Taiwan
+    location: National Dong Hwa University, Hualien, Taiwan
     date_start: '2017-09-01'
     date_end: '2018-09-01'
     description: |2-
