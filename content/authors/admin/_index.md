@@ -18,9 +18,10 @@ bio: My research interests include perception, decision-making, and computationa
 
 # Interests to show in About widget
 interests:
+- Decision-making
 - Perception
 - Computational Cognition
-- Decision-making
+- Programming
 
 # Education to show in About widget
 education:
