@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: Tony Szu-Hsien Lee's Lab
+    company: Dr. Tony Szu-Hsien Lee's Lab
     company_url: 'https://web.ntnu.edu.tw/~tonylee/englishindex.html'
     advisor: Tony Szu-Hsien Lee
     advisor_url: 'https://web.ntnu.edu.tw/~tonylee/englishindex.html'
