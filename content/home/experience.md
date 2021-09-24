@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: National Taiwan Normal University (NTNU)
-    company_url: ''
+    company: Tony Szu-Hsien Lee's Lab
+    company_url: 'https://web.ntnu.edu.tw/~tonylee/englishindex.html'
     advisor: Tony Szu-Hsien Lee
     advisor_url: 'https://web.ntnu.edu.tw/~tonylee/englishindex.html'
-    location: Taipei, Taiwan
+    location: National Taiwan Normal University, Taipei, Taiwan
     date_start: '2019-07-01'
     date_end: '2020-09-30'
     description: |2-
