@@ -30,7 +30,8 @@ experience:
     location: National Taiwan Normal University, Taipei, Taiwan
     date_start: '2019-07-01'
     date_end: '2020-09-30'
-    description: |2-
+    description: Assisted Dr. Tony Szu-Hsien Lee with project that research the ketamine exposure effects to teenagers’ higher cognitive function, brain structural and functional change. 
+        |2-
         Responsibilities include:
 
         * Programming psychological experiment
