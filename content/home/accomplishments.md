@@ -24,14 +24,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
-- certificate_url:
-  date_end: ""
-  date_start: "2021-10-20"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: 'Statistics with Python (in progress)'
-  url: ""
 - certificate_url: https://coursera.org/share/5b577740dd48c1ceb91ca1c31f51abd5
   date_end: ""
   date_start: "2021-10-12"
