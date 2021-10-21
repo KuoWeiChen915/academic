@@ -32,14 +32,6 @@ item:
   organization_url: https://www.coursera.org
   title: 'Exploratory Data Analysis with MATLAB'
   url: ""
-- certificate_url: https://coursera.org/share/01d4fe3513d81b2aaccec53a0dd62c20
-  date_end: ""
-  date_start: "2021-8-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: 'Introduction to Calculus'
-  url: ""
 - certificate_url: https://coursera.org/share/c44c56364fa9442befdfdfca23ad8d07
   date_end: ""
   date_start: "2020-06-12"
